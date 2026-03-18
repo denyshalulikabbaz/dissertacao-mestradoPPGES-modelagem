@@ -1,5 +1,7 @@
 # Dissertação de Mestrado – Modelagem e Simulação de Processos
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.19098434.svg)](https://doi.org/10.5281/zenodo.19098434)
+
 Este repositório contém os modelos e códigos desenvolvidos no âmbito da dissertação de mestrado no Programa de Pós-Graduação em Engenharia de Sistemas (PPGES).
 
 ---
